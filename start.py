@@ -59,11 +59,12 @@ DELAY_BETWEEN_MEDIAS = 50  # 50 segundos
 
 # Lista de captions aleatórios
 CAPTIONS = [
-    "Confira este conteúdo exclusivo! 🎥",
-    "Novo vídeo disponível! 🚀",
-    "Desbloqueie mais vídeos aqui! 🔓",
-    "Aproveite este conteúdo especial! 💎",
-    "Não perca esta novidade! 🎬"
+	" 💎 PEITUDINHAS E PEITUDONAS \n https://t.me/melancias_sbot \n https://t.me/melancias_sbot \n https://t.me/melancias_sbot ",
+	" 🔓 SOMENTE NOVINHAS \n  https://t.me/Cafetina_oBot \n  https://t.me/Cafetina_oBot \n  https://t.me/Cafetina_oBot ",
+	" 🎥 VIP GRATIS   VIP GRATIS \n  https://t.me/+8OSDAmhXxbA5ZTlh \n   https://t.me/+8OSDAmhXxbA5ZTlh \n  https://t.me/+8OSDAmhXxbA5ZTlh ",
+	" 🎥 Somente Vídeos    Somente Vídeos  \n   https://t.me/Cafetininha_bot \n  https://t.me/Cafetininha_bot \n  https://t.me/Cafetininha_bot",
+	" 🎥 PEITUDINHAS E PEITUDONAS \n https://t.me/melancias_sbot \n  https://t.me/melancias_sbot \n  https://t.me/melancias_sbot ",
+	" 🎥 SUPER VIP        SUPER VIP   \n  https://t.me/SuperVip_DraLarissaBot \n  https://t.me/SuperVip_DraLarissaBot \n   https://t.me/SuperVip_DraLarissaBot "
 ]
 
 # Variável para armazenar o horário da última mídia processada
