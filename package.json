@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
